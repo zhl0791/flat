@@ -15,3 +15,13 @@ const t = {
 
 console.log(flat(t));
 ```
+
+output:
+
+```javascript
+{
+  'key1.key3': 'v1',
+  'key2.key4': 'v2',
+  'key3.a.b.c': 2,
+}
+```
