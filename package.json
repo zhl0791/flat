@@ -1,6 +1,6 @@
 {
   "name": "@zhl0791/flat",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "source": "src/index.ts",
   "main": "dist/flat.js",

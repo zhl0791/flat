@@ -1,7 +1,7 @@
 ## flat object
 
 ```javascript
-import { flat } from '@zhaolei0791/flat';
+import { flat } from '@zhl0791/flat';
 
 const t = {
   key1: {
@@ -29,7 +29,7 @@ output:
 CommonJS:
 
 ```javascript
-import obj from '@zhaolei0791/flat';
+import obj from '@zhl0791/flat';
 
 const t = {
   key1: {
