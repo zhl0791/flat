@@ -1,11 +1,16 @@
 {
   "name": "@zhl0791/flat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "source": "src/index.ts",
   "main": "dist/flat.js",
   "module": "dist/flat.module.js",
   "unpkg": "dist/flat.umd.js",
+  "homepage": "https://github.com/zhl0791/flat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhl0791/flat.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "microbundle",
